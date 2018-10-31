@@ -5,11 +5,11 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
-  #bitbucket: philipj
-  hacker_news: swanson
-  #stackexchange: 348619
-  #stackoverflow: 348619
+  github: yhr91
+  bitbucket:
+  hacker_news:
+  stackexchange:
+  stackoverflow:
   twitter: yusufroohani
   facebook:
   tumblr:
@@ -21,7 +21,7 @@ social:
 # "Hi, I'm _______"
 name: Yusuf Roohani
 email: firstDOTlast@google.com
-tagline: "weak opinions, strongly held"
+tagline: ""
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
