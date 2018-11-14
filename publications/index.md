@@ -5,6 +5,8 @@ title: Publications
 
 <h2>Conference Papers</h2>
 
+**Roohani Y.**, Sajid N., Hope T., Price C., Madhyastha P., Predicting Language Recoveryafter Stroke with Convolutional Networks on Stitched MRI, NIPS ML4H Workshop, 2018
+
 **Roohani, Y.**, Hoffman, A., Musso, R., Richmond, N.,  Deep Learning for Robust Phenotyping of High Content Cellular Images, High Content Analysis, 2017 [PDF](../Data/HCA_2017.pdf)
 
 Curley, M., Tan, G., Yannatos, I., Camblin, A., **Roohani, Y.**, Iadevaia, S., Louis, C., Lugovskoy, A. Istiratumab (MM-141), a bispecific antibody targeting IGF-1R and ErbB3, inhibits pro-survival signaling in vitro and potentiates the activity of standard of care chemotherapy in vivo in ovarian cancer models, AACR, 2016. Abstract nr 1209. [PDF](../Data/AACR_2016.pdf)
