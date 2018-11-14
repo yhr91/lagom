@@ -5,7 +5,7 @@ title: Publications
 
 <h2>Conference Papers</h2>
 
-**Roohani Y.**, Sajid N., Hope T., Price C., Madhyastha P., Predicting Language Recoveryafter Stroke with Convolutional Networks on Stitched MRI, NIPS ML4H Workshop, 2018
+**Roohani Y.**, Sajid N., Hope T., Price C., Madhyastha P., Predicting Language Recovery after Stroke with Convolutional Networks on Stitched MRI, NIPS ML4H Workshop, 2018
 
 **Roohani, Y.**, Hoffman, A., Musso, R., Richmond, N.,  Deep Learning for Robust Phenotyping of High Content Cellular Images, High Content Analysis, 2017 [PDF](../Data/HCA_2017.pdf)
 
