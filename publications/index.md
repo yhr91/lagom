@@ -22,6 +22,6 @@ Impact of natural gas development in the Marcellus and Utica Shales on regional 
 
 <h2>Software Packages</h2>
 
-[DeepCells](https://github.com/yhr91/DeepCells/) Python framework for training deep learning models to analyze high content cellular microscopy images
+[DeepCells](https://github.com/yhr91/DeepCells/): A Python framework for training deep learning models to analyze high content cellular microscopy images
 
 
