@@ -7,7 +7,7 @@ title: Publications
 
 **Roohani Y.**, Sajid N., Hope T., Price C., Madhyastha P., Predicting Language Recovery after Stroke with Convolutional Networks on Stitched MRI, NIPS ML4H Workshop, 2018 [Link](https://arxiv.org/abs/1811.10520)
 
-**Roohani, Y.**, Hoffman, A., Musso, R., Richmond, N.,  Deep Learning for Robust Phenotyping of High Content Cellular Images, High Content Analysis, 2017 [PDF](../Data/HCA_2017.pdf)
+**Roohani, Y.**, Hoffman, A., Musso, R., Richmond, N.,  Deep Learning for Robust Phenotyping of High Content Cellular Images, High Content Analysis, 2017 [PDF](../Data/HCA_2017.pdf) 
 
 Curley, M., Tan, G., Yannatos, I., Camblin, A., **Roohani, Y.**, Iadevaia, S., Louis, C., Lugovskoy, A. Istiratumab (MM-141), a bispecific antibody targeting IGF-1R and ErbB3, inhibits pro-survival signaling in vitro and potentiates the activity of standard of care chemotherapy in vivo in ovarian cancer models, AACR, 2016. Abstract nr 1209. [PDF](../Data/AACR_2016.pdf)
 
@@ -19,5 +19,9 @@ Shokoohi H., LeSaux M., **Roohani Y.**, Litepio A., Huang C., Blaivas M. Enhance
 
 **Roohani, Y.**, Roy, A., Heo, J., Robinson, A., Adams, P. 
 Impact of natural gas development in the Marcellus and Utica Shales on regional ozone and fine particulate matter levels. Atmospheric Environment, 2017. [Link](https://www.sciencedirect.com/science/article/pii/S1352231017300018)
+
+<h2>Software Packages</h2>
+
+[DeepCells](https://github.com/yhr91/DeepCells/) Python framework for training deep learning models to analyze high content cellular microscopy images
 
 
