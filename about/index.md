@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-![](../Data/IMG_0595.JPG){:height="40%" width="40%"}
+![](../Data/IMG_0595.JPG){:height="20%" width="20%"}
 
 I work as a data scientist in drug discovery research at GSK in Cambridge, MA. I think of new ways to use data as we try to get better medicines to patients quicker. My technical interests lie within learning novel representations that are specifically optimised for working across boundaries within biomedical research. 
 
