@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-![](../Data/IMG_0595.JPG){:height="30%" width="30%"}
+![](../Data/IMG_059.JPG){:height="30%" width="30%"}
 
 I work on designing new ways to use data as we try to get better medicines to patients quicker. I’m currently a PhD student at Stanford University advised by [Jure Leskovec](https://cs.stanford.edu/people/jure/). I'm affiliated with the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html), [Stanford Network Analysis Project](http://snap.stanford.edu/people.html) and the [Stanford Statistical Machine Learning Group](http://statsml.stanford.edu/index.html). 
 
